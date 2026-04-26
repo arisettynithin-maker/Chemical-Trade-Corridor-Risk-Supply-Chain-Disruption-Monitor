@@ -12,7 +12,7 @@ DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 
 CHEM_KEYWORDS = ['chemical', 'organic', 'inorganic', 'pharmaceutical', 'fertilizer', 'plastics']
 
-# rough iso3 → country name bridge for the trade dataset naming conventions
+# rough iso3 -> country name bridge for the trade dataset naming conventions
 ISO3_TO_TRADE_NAME = {
     'DEU': 'Germany', 'FRA': 'France', 'NLD': 'Netherlands', 'BEL': 'Belgium',
     'ITA': 'Italy', 'ESP': 'Spain', 'GBR': 'United Kingdom', 'CHE': 'Switzerland',
@@ -59,7 +59,7 @@ def download_trade_data():
     print("Downloading commodity trade dataset from Kaggle...")
     try:
         result = subprocess.run(
-            ['kaggle', 'datasets', 'download', '-d', 'jboysen/global-commodity-trade-statistics',
+            ['kaggle', 'datasets', 'download', '-d', 'unitednations/global-commodity-trade-statistics',
              '-p', DATA_DIR, '--unzip'],
             capture_output=True, text=True, timeout=600
         )
@@ -78,7 +78,7 @@ def download_trade_data():
         if fname.endswith('.csv') and 'commodity' in fname.lower():
             src = os.path.join(DATA_DIR, fname)
             os.rename(src, csv_path)
-            print(f"Renamed {fname} → commodity_trade_raw.csv")
+            print(f"Renamed {fname} -> commodity_trade_raw.csv")
             return csv_path
 
     raise FileNotFoundError("Could not find extracted CSV in data/. Check the download manually.")
@@ -117,7 +117,7 @@ def process_trade_data(raw_path):
     agg['year'] = agg['year'].astype(int)
 
     agg.to_csv(out_path, index=False)
-    print(f"  Saved {len(agg):,} rows → chemical_trade_flows.csv")
+    print(f"  Saved {len(agg):,} rows -> chemical_trade_flows.csv")
     return out_path
 
 
@@ -165,7 +165,7 @@ def download_lpi_data():
             lpi_df['country_name'] = lpi_df['country_code']
 
         lpi_df.to_csv(out_path, index=False)
-        print(f"  Saved {len(lpi_df):,} LPI rows → world_bank_lpi.csv")
+        print(f"  Saved {len(lpi_df):,} LPI rows -> world_bank_lpi.csv")
 
     except ImportError:
         print("  wbgapi not available, falling back to World Bank REST API...")
@@ -249,7 +249,7 @@ def compute_risk_scores():
     v_lo, v_hi = merged['volatility'].quantile(0.05), merged['volatility'].quantile(0.95)
     merged['vol_norm'] = ((merged['volatility'].clip(v_lo, v_hi) - v_lo) / (v_hi - v_lo + 1e-9)).fillna(0.5)
 
-    # LPI risk: inverse-normalised (low LPI → high risk)
+    # LPI risk: inverse-normalised (low LPI -> high risk)
     l_lo = merged['lpi_overall'].quantile(0.05)
     l_hi = merged['lpi_overall'].quantile(0.95)
     merged['lpi_risk'] = (1 - (merged['lpi_overall'].clip(l_lo, l_hi) - l_lo) / (l_hi - l_lo + 1e-9)).fillna(0.5)
@@ -263,7 +263,7 @@ def compute_risk_scores():
     merged['region'] = merged['country'].map(REGION_MAP).fillna('Other')
 
     merged.to_csv(out_path, index=False)
-    print(f"  Saved {len(merged):,} rows → corridor_risk_scores.csv")
+    print(f"  Saved {len(merged):,} rows -> corridor_risk_scores.csv")
     return out_path
 
 

@@ -1,0 +1,1408 @@
+country_code,country_name,year,lpi_overall
+AFE,Africa Eastern and Southern,2022,2.61818181818182
+AFE,Africa Eastern and Southern,2018,2.49222222222222
+AFE,Africa Eastern and Southern,2016,2.57862257142857
+AFE,Africa Eastern and Southern,2014,2.46972818181818
+AFE,Africa Eastern and Southern,2012,2.46421052631579
+AFE,Africa Eastern and Southern,2010,2.38
+AFE,Africa Eastern and Southern,2007,2.38523809523809
+AFW,Africa Western and Central,2022,2.47333333333333
+AFW,Africa Western and Central,2018,2.41333333333333
+AFW,Africa Western and Central,2016,2.34997684210526
+AFW,Africa Western and Central,2014,2.4518314
+AFW,Africa Western and Central,2012,2.44833333333333
+AFW,Africa Western and Central,2010,2.46388888888889
+AFW,Africa Western and Central,2007,2.30333333333333
+ARB,Arab World,2022,2.79375
+ARB,Arab World,2018,2.67809523809524
+ARB,Arab World,2016,2.7123212
+ARB,Arab World,2014,2.6422202
+ARB,Arab World,2012,2.7075
+ARB,Arab World,2010,2.70157894736842
+ARB,Arab World,2007,2.62736842105263
+CSS,Caribbean small states,2022,2.6
+CSS,Caribbean small states,2018,2.43666666666667
+CSS,Caribbean small states,2016,2.60512433333333
+CSS,Caribbean small states,2014,2.685049
+CSS,Caribbean small states,2012,2.54
+CSS,Caribbean small states,2010,2.51
+CSS,Caribbean small states,2007,2.05
+CEB,Central Europe and the Baltics,2022,3.35454545454545
+CEB,Central Europe and the Baltics,2018,3.21545454545455
+CEB,Central Europe and the Baltics,2016,3.30313409090909
+CEB,Central Europe and the Baltics,2014,3.316988
+CEB,Central Europe and the Baltics,2012,3.09272727272727
+CEB,Central Europe and the Baltics,2010,3.09363636363636
+CEB,Central Europe and the Baltics,2007,2.96545454545455
+EAR,Early-demographic dividend,2022,2.74651162790698
+EAR,Early-demographic dividend,2018,2.63297872340426
+EAR,Early-demographic dividend,2016,2.65887832
+EAR,Early-demographic dividend,2014,2.69526668
+EAR,Early-demographic dividend,2012,2.63787234042553
+EAR,Early-demographic dividend,2010,2.65632653061224
+EAR,Early-demographic dividend,2007,2.48382978723404
+EAS,East Asia & Pacific,2022,3.3
+EAS,East Asia & Pacific,2018,3.14761904761905
+EAS,East Asia & Pacific,2016,3.13744447619048
+EAS,East Asia & Pacific,2014,3.18375385
+EAS,East Asia & Pacific,2012,3.139
+EAS,East Asia & Pacific,2010,3.1115
+EAS,East Asia & Pacific,2007,3.0235
+EAP,East Asia & Pacific (excluding high income),2022,2.95833333333333
+EAP,East Asia & Pacific (excluding high income),2018,2.81538461538462
+EAP,East Asia & Pacific (excluding high income),2016,2.787426
+EAP,East Asia & Pacific (excluding high income),2014,2.85316438461538
+EAP,East Asia & Pacific (excluding high income),2012,2.77230769230769
+EAP,East Asia & Pacific (excluding high income),2010,2.72692307692308
+EAP,East Asia & Pacific (excluding high income),2007,2.58153846153846
+TEA,East Asia & Pacific (IDA & IBRD countries),2022,2.95833333333333
+TEA,East Asia & Pacific (IDA & IBRD countries),2018,2.81538461538462
+TEA,East Asia & Pacific (IDA & IBRD countries),2016,2.787426
+TEA,East Asia & Pacific (IDA & IBRD countries),2014,2.85316438461538
+TEA,East Asia & Pacific (IDA & IBRD countries),2012,2.77230769230769
+TEA,East Asia & Pacific (IDA & IBRD countries),2010,2.72692307692308
+TEA,East Asia & Pacific (IDA & IBRD countries),2007,2.58153846153846
+EMU,Euro area,2022,3.655
+EMU,Euro area,2018,3.5095
+EMU,Euro area,2016,3.63302775
+EMU,Euro area,2014,3.55222105
+EMU,Euro area,2012,3.4665
+EMU,Euro area,2010,3.471
+EMU,Euro area,2007,3.44947368421053
+ECS,Europe & Central Asia,2022,3.32391304347826
+ECS,Europe & Central Asia,2018,3.24042553191489
+ECS,Europe & Central Asia,2016,3.22612140425532
+ECS,Europe & Central Asia,2014,3.25684406382979
+ECS,Europe & Central Asia,2012,3.18723404255319
+ECS,Europe & Central Asia,2010,3.19191489361702
+ECS,Europe & Central Asia,2007,3.08068181818182
+ECA,Europe & Central Asia (excluding high income),2022,2.72
+ECA,Europe & Central Asia (excluding high income),2018,2.656875
+ECA,Europe & Central Asia (excluding high income),2016,2.498787625
+ECA,Europe & Central Asia (excluding high income),2014,2.6635915
+ECA,Europe & Central Asia (excluding high income),2012,2.65375
+ECA,Europe & Central Asia (excluding high income),2010,2.63875
+ECA,Europe & Central Asia (excluding high income),2007,2.34142857142857
+TEC,Europe & Central Asia (IDA & IBRD countries),2022,2.835
+TEC,Europe & Central Asia (IDA & IBRD countries),2018,2.7647619047619
+TEC,Europe & Central Asia (IDA & IBRD countries),2016,2.61614176190476
+TEC,Europe & Central Asia (IDA & IBRD countries),2014,2.77509652380952
+TEC,Europe & Central Asia (IDA & IBRD countries),2012,2.75428571428571
+TEC,Europe & Central Asia (IDA & IBRD countries),2010,2.70047619047619
+TEC,Europe & Central Asia (IDA & IBRD countries),2007,2.45684210526316
+EUU,European Union,2022,3.61851851851852
+EUU,European Union,2018,3.51925925925926
+EUU,European Union,2016,3.59299633333333
+EUU,European Union,2014,3.54286218518519
+EUU,European Union,2012,3.45
+EUU,European Union,2010,3.44296296296296
+EUU,European Union,2007,3.40692307692308
+FCS,Fragile and conflict affected situations,2022,2.38095238095238
+FCS,Fragile and conflict affected situations,2018,2.35
+FCS,Fragile and conflict affected situations,2016,2.34384810344828
+FCS,Fragile and conflict affected situations,2014,2.38627722580645
+FCS,Fragile and conflict affected situations,2012,2.35111111111111
+FCS,Fragile and conflict affected situations,2010,2.39111111111111
+FCS,Fragile and conflict affected situations,2007,2.24518518518518
+HPC,Heavily indebted poor countries (HIPC),2022,2.42916666666667
+HPC,Heavily indebted poor countries (HIPC),2018,2.41542857142857
+HPC,Heavily indebted poor countries (HIPC),2016,2.40625119444444
+HPC,Heavily indebted poor countries (HIPC),2014,2.41567837837838
+HPC,Heavily indebted poor countries (HIPC),2012,2.388125
+HPC,Heavily indebted poor countries (HIPC),2010,2.40470588235294
+HPC,Heavily indebted poor countries (HIPC),2007,2.28138888888889
+,High income,2022,3.525
+,High income,2018,3.42589285714286
+,High income,2016,3.506640375
+,High income,2014,3.47538538888889
+,High income,2012,3.41471698113207
+,High income,2010,3.41888888888889
+,High income,2007,3.38607843137255
+IBD,IBRD only,2022,2.86111111111111
+IBD,IBRD only,2018,2.77155172413793
+IBD,IBRD only,2016,2.75520366101695
+IBD,IBRD only,2014,2.83754173684211
+IBD,IBRD only,2012,2.81431034482759
+IBD,IBRD only,2010,2.76368421052632
+IBD,IBRD only,2007,2.61924528301887
+IBT,IDA & IBRD total,2022,2.69255319148936
+IBT,IDA & IBRD total,2018,2.60491228070175
+IBT,IDA & IBRD total,2016,2.58694207017544
+IBT,IDA & IBRD total,2014,2.63636264347826
+IBT,IDA & IBRD total,2012,2.622
+IBT,IDA & IBRD total,2010,2.60081818181818
+IBT,IDA & IBRD total,2007,2.43559633027523
+IDB,IDA blend,2022,2.4875
+IDB,IDA blend,2018,2.515
+IDB,IDA blend,2016,2.5327187
+IDB,IDA blend,2014,2.529118
+IDB,IDA blend,2012,2.486
+IDB,IDA blend,2010,2.52333333333333
+IDB,IDA blend,2007,2.32555555555555
+IDX,IDA only,2022,2.459375
+IDX,IDA only,2018,2.41434782608696
+IDX,IDA only,2016,2.37838206666667
+IDX,IDA only,2014,2.41980510416667
+IDX,IDA only,2012,2.38880952380952
+IDX,IDA only,2010,2.40568181818182
+IDX,IDA only,2007,2.24957446808511
+IDA,IDA total,2022,2.465
+IDA,IDA total,2018,2.43232142857143
+IDA,IDA total,2016,2.40644327272727
+IDA,IDA total,2014,2.43865215517241
+IDA,IDA total,2012,2.4075
+IDA,IDA total,2010,2.42566037735849
+IDA,IDA total,2007,2.26178571428571
+LTE,Late-demographic dividend,2022,3.01025641025641
+LTE,Late-demographic dividend,2018,2.89372093023256
+LTE,Late-demographic dividend,2016,2.90023404878049
+LTE,Late-demographic dividend,2014,2.945706125
+LTE,Late-demographic dividend,2012,2.88142857142857
+LTE,Late-demographic dividend,2010,2.89585365853659
+LTE,Late-demographic dividend,2007,2.69297297297297
+LCN,Latin America & Caribbean,2022,2.692
+LCN,Latin America & Caribbean,2018,2.66434782608696
+LCN,Latin America & Caribbean,2016,2.664341375
+LCN,Latin America & Caribbean,2014,2.76907182608696
+LCN,Latin America & Caribbean,2012,2.70818181818182
+LCN,Latin America & Caribbean,2010,2.74130434782609
+LCN,Latin America & Caribbean,2007,2.56952380952381
+LAC,Latin America & Caribbean (excluding high income),2022,2.65625
+LAC,Latin America & Caribbean (excluding high income),2018,2.644
+LAC,Latin America & Caribbean (excluding high income),2016,2.595515
+LAC,Latin America & Caribbean (excluding high income),2014,2.7300971875
+LAC,Latin America & Caribbean (excluding high income),2012,2.67866666666667
+LAC,Latin America & Caribbean (excluding high income),2010,2.72375
+LAC,Latin America & Caribbean (excluding high income),2007,2.53933333333333
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2022,2.71304347826087
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2018,2.69285714285714
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2016,2.67489986363636
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2014,2.79037866666667
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2012,2.7315
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2010,2.77285714285714
+TLA,Latin America & the Caribbean (IDA & IBRD countries),2007,2.56952380952381
+LDC,Least developed countries: UN classification,2022,2.42083333333333
+LDC,Least developed countries: UN classification,2018,2.38648648648649
+LDC,Least developed countries: UN classification,2016,2.38803922222222
+LDC,Least developed countries: UN classification,2014,2.39611481578947
+LDC,Least developed countries: UN classification,2012,2.35484848484848
+LDC,Least developed countries: UN classification,2010,2.37885714285714
+LDC,Least developed countries: UN classification,2007,2.23615384615385
+LMY,Low & middle income,2022,2.65
+LMY,Low & middle income,2018,2.56815533980583
+LMY,Low & middle income,2016,2.55153624509804
+LMY,Low & middle income,2014,2.596270375
+LMY,Low & middle income,2012,2.58939393939394
+LMY,Low & middle income,2010,2.57111111111111
+LMY,Low & middle income,2007,2.4059793814433
+,Low income,2022,2.37333333333333
+,Low income,2018,2.34863636363636
+,Low income,2016,2.37477942105263
+,Low income,2014,2.33442066666667
+,Low income,2012,2.37944444444444
+,Low income,2010,2.3185
+,Low income,2007,2.18761904761905
+,Lower middle income,2022,2.63103448275862
+,Lower middle income,2018,2.54292682926829
+,Lower middle income,2016,2.50865944186046
+,Lower middle income,2014,2.5607136744186
+,Lower middle income,2012,2.53121951219512
+,Lower middle income,2010,2.57435897435897
+,Lower middle income,2007,2.37977272727273
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2022,2.88823529411765
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2018,2.72954545454545
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2016,2.85329133333333
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2014,2.77704995
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2012,2.77571428571429
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2010,2.8047619047619
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",2007,2.60473684210526
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2022,2.36666666666667
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2018,2.46428571428571
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2016,2.52247761538462
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2014,2.49005366666667
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2012,2.57714285714286
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2010,2.56769230769231
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",2007,2.29083333333333
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2022,2.36666666666667
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2018,2.46428571428571
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2016,2.52247761538462
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2014,2.49005366666667
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2012,2.57714285714286
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2010,2.56769230769231
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",2007,2.29083333333333
+MIC,Middle income,2022,2.71194029850746
+MIC,Middle income,2018,2.62777777777778
+MIC,Middle income,2016,2.59199865060241
+MIC,Middle income,2014,2.6625215060241
+MIC,Middle income,2012,2.63604938271605
+MIC,Middle income,2010,2.63506329113924
+MIC,Middle income,2007,2.46631578947368
+NAC,North America,2022,3.9
+NAC,North America,2018,3.81
+NAC,North America,2016,3.9614395
+NAC,North America,2014,3.8866615
+NAC,North America,2012,3.89
+NAC,North America,2010,3.865
+NAC,North America,2007,3.88
+OED,OECD members,2022,3.63421052631579
+OED,OECD members,2018,3.58105263157895
+OED,OECD members,2016,3.64776884210526
+OED,OECD members,2014,3.59425986842105
+OED,OECD members,2012,3.51540540540541
+OED,OECD members,2010,3.55
+OED,OECD members,2007,3.49621621621622
+OSS,Other small states,2022,3.025
+OSS,Other small states,2018,2.78083333333333
+OSS,Other small states,2016,2.73543136363636
+OSS,Other small states,2014,2.77805881818182
+OSS,Other small states,2012,2.67363636363636
+OSS,Other small states,2010,2.708
+OSS,Other small states,2007,2.39375
+PSS,Pacific island small states,2022,2.55
+PSS,Pacific island small states,2018,2.46
+PSS,Pacific island small states,2016,2.3667535
+PSS,Pacific island small states,2014,2.5662655
+PSS,Pacific island small states,2012,2.415
+PSS,Pacific island small states,2010,2.275
+PSS,Pacific island small states,2007,2.08
+PST,Post-demographic dividend,2022,3.60555555555556
+PST,Post-demographic dividend,2018,3.58171428571429
+PST,Post-demographic dividend,2016,3.61836208571429
+PST,Post-demographic dividend,2014,3.572267
+PST,Post-demographic dividend,2012,3.54657142857143
+PST,Post-demographic dividend,2010,3.52823529411765
+PST,Post-demographic dividend,2007,3.55454545454545
+PRE,Pre-demographic dividend,2022,2.39
+PRE,Pre-demographic dividend,2018,2.38818181818182
+PRE,Pre-demographic dividend,2016,2.40239665625
+PRE,Pre-demographic dividend,2014,2.39432245454545
+PRE,Pre-demographic dividend,2012,2.38357142857143
+PRE,Pre-demographic dividend,2010,2.38966666666667
+PRE,Pre-demographic dividend,2007,2.28516129032258
+SST,Small states,2022,2.82
+SST,Small states,2018,2.68235294117647
+SST,Small states,2016,2.6649140625
+SST,Small states,2014,2.7374184
+SST,Small states,2012,2.62133333333333
+SST,Small states,2010,2.61785714285714
+SST,Small states,2007,2.328
+SAS,South Asia,2022,2.825
+SAS,South Asia,2018,2.61833333333333
+SAS,South Asia,2016,2.6590482
+SAS,South Asia,2014,2.660716
+SAS,South Asia,2012,2.588
+SAS,South Asia,2010,2.52166666666667
+SAS,South Asia,2007,2.448
+TSA,South Asia (IDA & IBRD),2022,2.825
+TSA,South Asia (IDA & IBRD),2018,2.61833333333333
+TSA,South Asia (IDA & IBRD),2016,2.6590482
+TSA,South Asia (IDA & IBRD),2014,2.660716
+TSA,South Asia (IDA & IBRD),2012,2.588
+TSA,South Asia (IDA & IBRD),2010,2.52166666666667
+TSA,South Asia (IDA & IBRD),2007,2.448
+SSF,Sub-Saharan Africa,2022,2.53461538461538
+SSF,Sub-Saharan Africa,2018,2.44974358974359
+SSF,Sub-Saharan Africa,2016,2.47001585
+SSF,Sub-Saharan Africa,2014,2.46120590476191
+SSF,Sub-Saharan Africa,2012,2.45648648648649
+SSF,Sub-Saharan Africa,2010,2.42194444444444
+SSF,Sub-Saharan Africa,2007,2.3474358974359
+SSA,Sub-Saharan Africa (excluding high income),2022,2.53461538461538
+SSA,Sub-Saharan Africa (excluding high income),2018,2.44974358974359
+SSA,Sub-Saharan Africa (excluding high income),2016,2.47240684615385
+SSA,Sub-Saharan Africa (excluding high income),2014,2.45797617073171
+SSA,Sub-Saharan Africa (excluding high income),2012,2.4625
+SSA,Sub-Saharan Africa (excluding high income),2010,2.42228571428571
+SSA,Sub-Saharan Africa (excluding high income),2007,2.34789473684211
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2022,2.53461538461538
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2018,2.44974358974359
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2016,2.47001585
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2014,2.46120590476191
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2012,2.45648648648649
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2010,2.42194444444444
+TSS,Sub-Saharan Africa (IDA & IBRD countries),2007,2.3474358974359
+,Upper middle income,2022,2.77368421052632
+,Upper middle income,2018,2.71475
+,Upper middle income,2016,2.6815883
+,Upper middle income,2014,2.771964925
+,Upper middle income,2012,2.7435
+,Upper middle income,2010,2.69425
+,Upper middle income,2007,2.5853125
+WLD,World,2022,3.0
+WLD,World,2018,2.86625
+WLD,World,2016,2.88372565625
+WLD,World,2014,2.8942791625
+WLD,World,2012,2.87051948051948
+WLD,World,2010,2.86612903225806
+WLD,World,2007,2.74013333333333
+AFG,Afghanistan,2022,1.9
+AFG,Afghanistan,2018,1.95
+AFG,Afghanistan,2016,2.141282
+AFG,Afghanistan,2014,2.069573
+AFG,Afghanistan,2012,2.3
+AFG,Afghanistan,2010,2.24
+AFG,Afghanistan,2007,1.21
+ALB,Albania,2022,2.5
+ALB,Albania,2018,2.66
+ALB,Albania,2016,2.412498
+ALB,Albania,2012,2.77
+ALB,Albania,2010,2.46
+ALB,Albania,2007,2.08
+DZA,Algeria,2022,2.5
+DZA,Algeria,2018,2.45
+DZA,Algeria,2016,2.769683
+DZA,Algeria,2014,2.649451
+DZA,Algeria,2012,2.41
+DZA,Algeria,2010,2.36
+DZA,Algeria,2007,2.06
+AGO,Angola,2022,2.1
+AGO,Angola,2018,2.05
+AGO,Angola,2016,2.241183
+AGO,Angola,2014,2.54298
+AGO,Angola,2012,2.28
+AGO,Angola,2010,2.25
+AGO,Angola,2007,2.48
+ATG,Antigua and Barbuda,2022,2.9
+ARG,Argentina,2022,2.8
+ARG,Argentina,2018,2.89
+ARG,Argentina,2016,2.962629
+ARG,Argentina,2014,2.986475
+ARG,Argentina,2012,3.05
+ARG,Argentina,2010,3.1
+ARG,Argentina,2007,2.98
+ARM,Armenia,2022,2.5
+ARM,Armenia,2018,2.61
+ARM,Armenia,2016,2.205513
+ARM,Armenia,2014,2.672723
+ARM,Armenia,2012,2.56
+ARM,Armenia,2010,2.52
+ARM,Armenia,2007,2.14
+AUS,Australia,2022,3.7
+AUS,Australia,2018,3.75
+AUS,Australia,2016,3.793385
+AUS,Australia,2014,3.810776
+AUS,Australia,2012,3.73
+AUS,Australia,2010,3.84
+AUS,Australia,2007,3.79
+AUT,Austria,2022,4.0
+AUT,Austria,2018,4.03
+AUT,Austria,2016,4.097985
+AUT,Austria,2014,3.648587
+AUT,Austria,2012,3.89
+AUT,Austria,2010,3.76
+AUT,Austria,2007,4.06
+AZE,Azerbaijan,2014,2.448376
+AZE,Azerbaijan,2012,2.48
+AZE,Azerbaijan,2010,2.64
+AZE,Azerbaijan,2007,2.29
+BHS,"Bahamas, The",2022,2.7
+BHS,"Bahamas, The",2018,2.53
+BHS,"Bahamas, The",2016,2.749937
+BHS,"Bahamas, The",2014,2.910966
+BHS,"Bahamas, The",2012,2.75
+BHS,"Bahamas, The",2010,2.75
+BHR,Bahrain,2022,3.5
+BHR,Bahrain,2018,2.93
+BHR,Bahrain,2016,3.314021
+BHR,Bahrain,2014,3.083116
+BHR,Bahrain,2012,3.05
+BHR,Bahrain,2010,3.37
+BHR,Bahrain,2007,3.15
+BGD,Bangladesh,2022,2.6
+BGD,Bangladesh,2018,2.58
+BGD,Bangladesh,2016,2.663902
+BGD,Bangladesh,2014,2.56334
+BGD,Bangladesh,2010,2.74
+BGD,Bangladesh,2007,2.47
+BLR,Belarus,2022,2.7
+BLR,Belarus,2018,2.57
+BLR,Belarus,2016,2.399232
+BLR,Belarus,2014,2.638168
+BLR,Belarus,2012,2.61
+BLR,Belarus,2007,2.53
+BEL,Belgium,2022,4.0
+BEL,Belgium,2018,4.04
+BEL,Belgium,2016,4.108538
+BEL,Belgium,2014,4.04466
+BEL,Belgium,2012,3.98
+BEL,Belgium,2010,3.94
+BEL,Belgium,2007,3.89
+BEN,Benin,2022,2.9
+BEN,Benin,2018,2.75
+BEN,Benin,2016,2.428125
+BEN,Benin,2014,2.560822
+BEN,Benin,2012,2.85
+BEN,Benin,2010,2.79
+BEN,Benin,2007,2.45
+BTN,Bhutan,2022,2.5
+BTN,Bhutan,2018,2.17
+BTN,Bhutan,2016,2.321436
+BTN,Bhutan,2014,2.29013
+BTN,Bhutan,2012,2.52
+BTN,Bhutan,2010,2.38
+BTN,Bhutan,2007,2.16
+BOL,Bolivia,2022,2.4
+BOL,Bolivia,2018,2.36
+BOL,Bolivia,2016,2.251462
+BOL,Bolivia,2014,2.480758
+BOL,Bolivia,2012,2.61
+BOL,Bolivia,2010,2.51
+BOL,Bolivia,2007,2.31
+BIH,Bosnia and Herzegovina,2022,3.0
+BIH,Bosnia and Herzegovina,2018,2.81
+BIH,Bosnia and Herzegovina,2016,2.596254
+BIH,Bosnia and Herzegovina,2014,2.747618
+BIH,Bosnia and Herzegovina,2012,2.99
+BIH,Bosnia and Herzegovina,2010,2.66
+BIH,Bosnia and Herzegovina,2007,2.46
+BWA,Botswana,2022,3.1
+BWA,Botswana,2016,3.045458
+BWA,Botswana,2014,2.492775
+BWA,Botswana,2012,2.84
+BWA,Botswana,2010,2.32
+BRA,Brazil,2022,3.2
+BRA,Brazil,2018,2.99
+BRA,Brazil,2016,3.087984
+BRA,Brazil,2014,2.943951
+BRA,Brazil,2012,3.13
+BRA,Brazil,2010,3.2
+BRA,Brazil,2007,2.75
+BRN,Brunei Darussalam,2018,2.71
+BRN,Brunei Darussalam,2016,2.870492
+BGR,Bulgaria,2022,3.2
+BGR,Bulgaria,2018,3.03
+BGR,Bulgaria,2016,2.807685
+BGR,Bulgaria,2014,3.157151
+BGR,Bulgaria,2012,3.21
+BGR,Bulgaria,2010,2.83
+BGR,Bulgaria,2007,2.87
+BFA,Burkina Faso,2022,2.3
+BFA,Burkina Faso,2018,2.62
+BFA,Burkina Faso,2016,2.73081
+BFA,Burkina Faso,2014,2.6383
+BFA,Burkina Faso,2012,2.32
+BFA,Burkina Faso,2010,2.23
+BFA,Burkina Faso,2007,2.24
+BDI,Burundi,2018,2.06
+BDI,Burundi,2016,2.509776
+BDI,Burundi,2014,2.565735
+BDI,Burundi,2012,1.61
+BDI,Burundi,2007,2.29
+KHM,Cambodia,2022,2.4
+KHM,Cambodia,2018,2.58
+KHM,Cambodia,2016,2.80059
+KHM,Cambodia,2014,2.741407
+KHM,Cambodia,2012,2.56
+KHM,Cambodia,2010,2.37
+KHM,Cambodia,2007,2.5
+CMR,Cameroon,2022,2.1
+CMR,Cameroon,2018,2.6
+CMR,Cameroon,2016,2.151499
+CMR,Cameroon,2014,2.296616
+CMR,Cameroon,2012,2.53
+CMR,Cameroon,2010,2.55
+CMR,Cameroon,2007,2.49
+CAN,Canada,2022,4.0
+CAN,Canada,2018,3.73
+CAN,Canada,2016,3.930707
+CAN,Canada,2014,3.855498
+CAN,Canada,2012,3.85
+CAN,Canada,2010,3.87
+CAN,Canada,2007,3.92
+CAF,Central African Republic,2022,2.5
+CAF,Central African Republic,2018,2.15
+CAF,Central African Republic,2014,2.360932
+TCD,Chad,2018,2.42
+TCD,Chad,2016,2.164453
+TCD,Chad,2014,2.52968
+TCD,Chad,2012,2.03
+TCD,Chad,2010,2.49
+TCD,Chad,2007,1.98
+CHL,Chile,2022,3.0
+CHL,Chile,2018,3.32
+CHL,Chile,2016,3.248442
+CHL,Chile,2014,3.255786
+CHL,Chile,2012,3.17
+CHL,Chile,2010,3.09
+CHL,Chile,2007,3.25
+CHN,China,2022,3.7
+CHN,China,2018,3.61
+CHN,China,2016,3.661104
+CHN,China,2014,3.531463
+CHN,China,2012,3.52
+CHN,China,2010,3.49
+CHN,China,2007,3.32
+COL,Colombia,2022,2.9
+COL,Colombia,2018,2.94
+COL,Colombia,2016,2.612351
+COL,Colombia,2014,2.639637
+COL,Colombia,2012,2.87
+COL,Colombia,2010,2.77
+COL,Colombia,2007,2.5
+COM,Comoros,2018,2.56
+COM,Comoros,2016,2.57914
+COM,Comoros,2014,2.402136
+COM,Comoros,2012,2.14
+COM,Comoros,2010,2.45
+COM,Comoros,2007,2.48
+COD,"Congo, Dem. Rep.",2022,2.5
+COD,"Congo, Dem. Rep.",2018,2.43
+COD,"Congo, Dem. Rep.",2016,2.375762
+COD,"Congo, Dem. Rep.",2014,1.878857
+COD,"Congo, Dem. Rep.",2012,2.21
+COD,"Congo, Dem. Rep.",2010,2.68
+COG,"Congo, Rep.",2022,2.6
+COG,"Congo, Rep.",2018,2.49
+COG,"Congo, Rep.",2016,2.376768
+COG,"Congo, Rep.",2014,2.077149
+COG,"Congo, Rep.",2012,2.08
+COG,"Congo, Rep.",2010,2.48
+CRI,Costa Rica,2022,2.9
+CRI,Costa Rica,2018,2.79
+CRI,Costa Rica,2016,2.64897
+CRI,Costa Rica,2014,2.700719
+CRI,Costa Rica,2012,2.75
+CRI,Costa Rica,2010,2.91
+CRI,Costa Rica,2007,2.55
+CIV,Cote d'Ivoire,2018,3.08
+CIV,Cote d'Ivoire,2016,2.602573
+CIV,Cote d'Ivoire,2014,2.761981
+CIV,Cote d'Ivoire,2012,2.73
+CIV,Cote d'Ivoire,2010,2.53
+CIV,Cote d'Ivoire,2007,2.36
+HRV,Croatia,2022,3.3
+HRV,Croatia,2018,3.1
+HRV,Croatia,2016,3.160829
+HRV,Croatia,2014,3.052949
+HRV,Croatia,2012,3.16
+HRV,Croatia,2010,2.77
+HRV,Croatia,2007,2.71
+CUB,Cuba,2022,2.2
+CUB,Cuba,2018,2.2
+CUB,Cuba,2016,2.346459
+CUB,Cuba,2014,2.179734
+CUB,Cuba,2012,2.2
+CUB,Cuba,2010,2.07
+CYP,Cyprus,2022,3.2
+CYP,Cyprus,2018,3.15
+CYP,Cyprus,2016,2.999061
+CYP,Cyprus,2014,3.000577
+CYP,Cyprus,2012,3.24
+CYP,Cyprus,2010,3.13
+CYP,Cyprus,2007,2.92
+CZE,Czechia,2022,3.3
+CZE,Czechia,2018,3.68
+CZE,Czechia,2016,3.674309
+CZE,Czechia,2014,3.492416
+CZE,Czechia,2012,3.14
+CZE,Czechia,2010,3.51
+CZE,Czechia,2007,3.13
+DNK,Denmark,2022,4.1
+DNK,Denmark,2018,3.99
+DNK,Denmark,2016,3.815794
+DNK,Denmark,2014,3.78252
+DNK,Denmark,2012,4.02
+DNK,Denmark,2010,3.85
+DNK,Denmark,2007,3.86
+DJI,Djibouti,2022,2.7
+DJI,Djibouti,2018,2.63
+DJI,Djibouti,2016,2.32254
+DJI,Djibouti,2014,2.149867
+DJI,Djibouti,2012,1.8
+DJI,Djibouti,2010,2.39
+DJI,Djibouti,2007,1.94
+DOM,Dominican Republic,2022,2.6
+DOM,Dominican Republic,2018,2.66
+DOM,Dominican Republic,2016,2.62728
+DOM,Dominican Republic,2014,2.860551
+DOM,Dominican Republic,2012,2.7
+DOM,Dominican Republic,2010,2.82
+DOM,Dominican Republic,2007,2.38
+ECU,Ecuador,2018,2.88
+ECU,Ecuador,2016,2.779081
+ECU,Ecuador,2014,2.710986
+ECU,Ecuador,2012,2.76
+ECU,Ecuador,2010,2.77
+ECU,Ecuador,2007,2.6
+EGY,"Egypt, Arab Rep.",2022,3.1
+EGY,"Egypt, Arab Rep.",2018,2.82
+EGY,"Egypt, Arab Rep.",2016,3.184964
+EGY,"Egypt, Arab Rep.",2014,2.965911
+EGY,"Egypt, Arab Rep.",2012,2.98
+EGY,"Egypt, Arab Rep.",2010,2.61
+EGY,"Egypt, Arab Rep.",2007,2.37
+SLV,El Salvador,2022,2.7
+SLV,El Salvador,2018,2.58
+SLV,El Salvador,2016,2.705726
+SLV,El Salvador,2014,2.960467
+SLV,El Salvador,2012,2.6
+SLV,El Salvador,2010,2.67
+SLV,El Salvador,2007,2.66
+GNQ,Equatorial Guinea,2018,2.32
+GNQ,Equatorial Guinea,2016,1.87919
+GNQ,Equatorial Guinea,2014,2.354636
+ERI,Eritrea,2018,2.09
+ERI,Eritrea,2016,2.171842
+ERI,Eritrea,2014,2.084755
+ERI,Eritrea,2012,2.11
+ERI,Eritrea,2010,1.7
+ERI,Eritrea,2007,2.19
+EST,Estonia,2022,3.6
+EST,Estonia,2018,3.31
+EST,Estonia,2016,3.363489
+EST,Estonia,2014,3.34592
+EST,Estonia,2012,2.86
+EST,Estonia,2010,3.16
+EST,Estonia,2007,2.95
+ETH,Ethiopia,2016,2.376767
+ETH,Ethiopia,2014,2.593625
+ETH,Ethiopia,2012,2.24
+ETH,Ethiopia,2010,2.41
+ETH,Ethiopia,2007,2.33
+FJI,Fiji,2022,2.3
+FJI,Fiji,2018,2.35
+FJI,Fiji,2016,2.316186
+FJI,Fiji,2014,2.545003
+FJI,Fiji,2012,2.42
+FJI,Fiji,2010,2.24
+FIN,Finland,2022,4.2
+FIN,Finland,2018,3.97
+FIN,Finland,2016,3.920745
+FIN,Finland,2014,3.623035
+FIN,Finland,2012,4.05
+FIN,Finland,2010,3.89
+FIN,Finland,2007,3.82
+FRA,France,2022,3.9
+FRA,France,2018,3.84
+FRA,France,2016,3.900953
+FRA,France,2014,3.847305
+FRA,France,2012,3.85
+FRA,France,2010,3.84
+FRA,France,2007,3.76
+GAB,Gabon,2022,2.4
+GAB,Gabon,2018,2.16
+GAB,Gabon,2016,2.19165
+GAB,Gabon,2014,2.202899
+GAB,Gabon,2012,2.34
+GAB,Gabon,2010,2.41
+GAB,Gabon,2007,2.1
+GMB,"Gambia, The",2022,2.3
+GMB,"Gambia, The",2018,2.4
+GMB,"Gambia, The",2014,2.249081
+GMB,"Gambia, The",2012,2.46
+GMB,"Gambia, The",2010,2.49
+GMB,"Gambia, The",2007,2.52
+GEO,Georgia,2022,2.7
+GEO,Georgia,2018,2.44
+GEO,Georgia,2016,2.353013
+GEO,Georgia,2014,2.507491
+GEO,Georgia,2012,2.77
+GEO,Georgia,2010,2.61
+DEU,Germany,2022,4.1
+DEU,Germany,2018,4.2
+DEU,Germany,2016,4.225967
+DEU,Germany,2014,4.121983
+DEU,Germany,2012,4.03
+DEU,Germany,2010,4.11
+DEU,Germany,2007,4.1
+GHA,Ghana,2022,2.5
+GHA,Ghana,2018,2.57
+GHA,Ghana,2016,2.660931
+GHA,Ghana,2014,2.626934
+GHA,Ghana,2012,2.51
+GHA,Ghana,2010,2.47
+GHA,Ghana,2007,2.16
+GRC,Greece,2022,3.7
+GRC,Greece,2018,3.2
+GRC,Greece,2016,3.239516
+GRC,Greece,2014,3.201602
+GRC,Greece,2012,2.83
+GRC,Greece,2010,2.96
+GRC,Greece,2007,3.36
+GRD,Grenada,2022,2.5
+GTM,Guatemala,2022,2.6
+GTM,Guatemala,2018,2.41
+GTM,Guatemala,2016,2.476327
+GTM,Guatemala,2014,2.797453
+GTM,Guatemala,2012,2.8
+GTM,Guatemala,2010,2.63
+GTM,Guatemala,2007,2.53
+GIN,Guinea,2022,2.5
+GIN,Guinea,2018,2.2
+GIN,Guinea,2016,2.35896
+GIN,Guinea,2014,2.464191
+GIN,Guinea,2012,2.48
+GIN,Guinea,2010,2.6
+GIN,Guinea,2007,2.71
+GNB,Guinea-Bissau,2022,2.6
+GNB,Guinea-Bissau,2018,2.39
+GNB,Guinea-Bissau,2016,2.370681
+GNB,Guinea-Bissau,2014,2.426464
+GNB,Guinea-Bissau,2012,2.6
+GNB,Guinea-Bissau,2010,2.1
+GNB,Guinea-Bissau,2007,2.28
+GUY,Guyana,2022,2.4
+GUY,Guyana,2018,2.36
+GUY,Guyana,2016,2.667018
+GUY,Guyana,2014,2.459132
+GUY,Guyana,2012,2.33
+GUY,Guyana,2010,2.27
+GUY,Guyana,2007,2.05
+HTI,Haiti,2022,2.1
+HTI,Haiti,2018,2.11
+HTI,Haiti,2016,1.716096
+HTI,Haiti,2014,2.269601
+HTI,Haiti,2012,2.03
+HTI,Haiti,2010,2.59
+HTI,Haiti,2007,2.21
+HND,Honduras,2022,2.9
+HND,Honduras,2018,2.6
+HND,Honduras,2016,2.462812
+HND,Honduras,2014,2.607427
+HND,Honduras,2012,2.53
+HND,Honduras,2010,2.78
+HND,Honduras,2007,2.5
+HKG,"Hong Kong SAR, China",2022,4.0
+HKG,"Hong Kong SAR, China",2018,3.92
+HKG,"Hong Kong SAR, China",2016,4.069103
+HKG,"Hong Kong SAR, China",2014,3.826763
+HKG,"Hong Kong SAR, China",2012,4.12
+HKG,"Hong Kong SAR, China",2010,3.88
+HKG,"Hong Kong SAR, China",2007,4.0
+HUN,Hungary,2022,3.2
+HUN,Hungary,2018,3.42
+HUN,Hungary,2016,3.428968
+HUN,Hungary,2014,3.464438
+HUN,Hungary,2012,3.17
+HUN,Hungary,2010,2.99
+HUN,Hungary,2007,3.15
+ISL,Iceland,2022,3.6
+ISL,Iceland,2018,3.23
+ISL,Iceland,2016,3.345605
+ISL,Iceland,2014,3.391863
+ISL,Iceland,2012,3.39
+ISL,Iceland,2010,3.2
+IND,India,2022,3.4
+IND,India,2018,3.18
+IND,India,2016,3.420043
+IND,India,2014,3.080137
+IND,India,2012,3.08
+IND,India,2010,3.12
+IND,India,2007,3.07
+IDN,Indonesia,2022,3.0
+IDN,Indonesia,2018,3.15
+IDN,Indonesia,2016,2.984537
+IDN,Indonesia,2014,3.081806
+IDN,Indonesia,2012,2.94
+IDN,Indonesia,2010,2.76
+IDN,Indonesia,2007,3.01
+IRN,"Iran, Islamic Rep.",2022,2.3
+IRN,"Iran, Islamic Rep.",2018,2.85
+IRN,"Iran, Islamic Rep.",2016,2.601254
+IRN,"Iran, Islamic Rep.",2012,2.49
+IRN,"Iran, Islamic Rep.",2010,2.57
+IRN,"Iran, Islamic Rep.",2007,2.51
+IRQ,Iraq,2022,2.4
+IRQ,Iraq,2018,2.18
+IRQ,Iraq,2016,2.149902
+IRQ,Iraq,2014,2.29784
+IRQ,Iraq,2012,2.16
+IRQ,Iraq,2010,2.11
+IRL,Ireland,2022,3.6
+IRL,Ireland,2018,3.51
+IRL,Ireland,2016,3.794886
+IRL,Ireland,2014,3.868014
+IRL,Ireland,2012,3.52
+IRL,Ireland,2010,3.89
+IRL,Ireland,2007,3.91
+ISR,Israel,2022,3.6
+ISR,Israel,2018,3.31
+ISR,Israel,2016,3.66033
+ISR,Israel,2014,3.260446
+ISR,Israel,2010,3.41
+ISR,Israel,2007,3.21
+ITA,Italy,2022,3.7
+ITA,Italy,2018,3.74
+ITA,Italy,2016,3.755414
+ITA,Italy,2014,3.691076
+ITA,Italy,2012,3.67
+ITA,Italy,2010,3.64
+ITA,Italy,2007,3.58
+JAM,Jamaica,2022,2.5
+JAM,Jamaica,2018,2.52
+JAM,Jamaica,2016,2.400214
+JAM,Jamaica,2014,2.842494
+JAM,Jamaica,2012,2.42
+JAM,Jamaica,2010,2.53
+JAM,Jamaica,2007,2.25
+JPN,Japan,2022,3.9
+JPN,Japan,2018,4.03
+JPN,Japan,2016,3.970464
+JPN,Japan,2014,3.914618
+JPN,Japan,2012,3.93
+JPN,Japan,2010,3.97
+JPN,Japan,2007,4.02
+JOR,Jordan,2018,2.69
+JOR,Jordan,2016,2.956611
+JOR,Jordan,2014,2.873924
+JOR,Jordan,2012,2.56
+JOR,Jordan,2010,2.74
+JOR,Jordan,2007,2.89
+KAZ,Kazakhstan,2022,2.7
+KAZ,Kazakhstan,2018,2.81
+KAZ,Kazakhstan,2016,2.751998
+KAZ,Kazakhstan,2014,2.69942
+KAZ,Kazakhstan,2012,2.69
+KAZ,Kazakhstan,2010,2.83
+KAZ,Kazakhstan,2007,2.12
+KEN,Kenya,2018,2.81
+KEN,Kenya,2016,3.331295
+KEN,Kenya,2014,2.812079
+KEN,Kenya,2012,2.43
+KEN,Kenya,2010,2.59
+KEN,Kenya,2007,2.52
+KOR,"Korea, Rep.",2022,3.8
+KOR,"Korea, Rep.",2018,3.61
+KOR,"Korea, Rep.",2016,3.717126
+KOR,"Korea, Rep.",2014,3.666238
+KOR,"Korea, Rep.",2012,3.7
+KOR,"Korea, Rep.",2010,3.64
+KOR,"Korea, Rep.",2007,3.52
+KWT,Kuwait,2022,3.2
+KWT,Kuwait,2018,2.86
+KWT,Kuwait,2016,3.151619
+KWT,Kuwait,2014,3.0113
+KWT,Kuwait,2012,2.83
+KWT,Kuwait,2010,3.28
+KWT,Kuwait,2007,2.99
+KGZ,Kyrgyz Republic,2022,2.3
+KGZ,Kyrgyz Republic,2018,2.55
+KGZ,Kyrgyz Republic,2016,2.15593
+KGZ,Kyrgyz Republic,2014,2.209336
+KGZ,Kyrgyz Republic,2012,2.35
+KGZ,Kyrgyz Republic,2010,2.62
+KGZ,Kyrgyz Republic,2007,2.35
+LAO,Lao PDR,2022,2.4
+LAO,Lao PDR,2018,2.7
+LAO,Lao PDR,2016,2.067254
+LAO,Lao PDR,2014,2.389703
+LAO,Lao PDR,2012,2.5
+LAO,Lao PDR,2010,2.46
+LAO,Lao PDR,2007,2.25
+LVA,Latvia,2022,3.5
+LVA,Latvia,2018,2.81
+LVA,Latvia,2016,3.327107
+LVA,Latvia,2014,3.402789
+LVA,Latvia,2012,2.78
+LVA,Latvia,2010,3.25
+LVA,Latvia,2007,3.02
+LBN,Lebanon,2018,2.72
+LBN,Lebanon,2016,2.717255
+LBN,Lebanon,2014,2.725805
+LBN,Lebanon,2012,2.58
+LBN,Lebanon,2010,3.34
+LBN,Lebanon,2007,2.37
+LSO,Lesotho,2018,2.28
+LSO,Lesotho,2016,2.025983
+LSO,Lesotho,2014,2.372849
+LSO,Lesotho,2012,2.24
+LSO,Lesotho,2007,2.3
+LBR,Liberia,2022,2.4
+LBR,Liberia,2018,2.23
+LBR,Liberia,2016,2.203914
+LBR,Liberia,2014,2.62
+LBR,Liberia,2012,2.45
+LBR,Liberia,2010,2.38
+LBR,Liberia,2007,2.31
+LBY,Libya,2022,1.9
+LBY,Libya,2018,2.11
+LBY,Libya,2016,2.264495
+LBY,Libya,2014,2.496979
+LBY,Libya,2012,2.28
+LBY,Libya,2010,2.33
+LTU,Lithuania,2022,3.4
+LTU,Lithuania,2018,3.02
+LTU,Lithuania,2016,3.631688
+LTU,Lithuania,2014,3.178416
+LTU,Lithuania,2012,2.95
+LTU,Lithuania,2010,3.13
+LTU,Lithuania,2007,2.78
+LUX,Luxembourg,2022,3.6
+LUX,Luxembourg,2018,3.63
+LUX,Luxembourg,2016,4.219409
+LUX,Luxembourg,2014,3.946726
+LUX,Luxembourg,2012,3.82
+LUX,Luxembourg,2010,3.98
+LUX,Luxembourg,2007,3.54
+MDG,Madagascar,2022,2.3
+MDG,Madagascar,2018,2.39
+MDG,Madagascar,2016,2.154639
+MDG,Madagascar,2014,2.382349
+MDG,Madagascar,2012,2.72
+MDG,Madagascar,2010,2.66
+MDG,Madagascar,2007,2.24
+MWI,Malawi,2018,2.59
+MWI,Malawi,2014,2.813029
+MWI,Malawi,2012,2.81
+MWI,Malawi,2007,2.42
+MYS,Malaysia,2022,3.6
+MYS,Malaysia,2018,3.22
+MYS,Malaysia,2016,3.426307
+MYS,Malaysia,2014,3.590425
+MYS,Malaysia,2012,3.49
+MYS,Malaysia,2010,3.44
+MYS,Malaysia,2007,3.48
+MDV,Maldives,2018,2.67
+MDV,Maldives,2016,2.513077
+MDV,Maldives,2014,2.747544
+MDV,Maldives,2012,2.55
+MDV,Maldives,2010,2.4
+MLI,Mali,2022,2.6
+MLI,Mali,2018,2.59
+MLI,Mali,2016,2.503073
+MLI,Mali,2014,2.495227
+MLI,Mali,2010,2.27
+MLI,Mali,2007,2.29
+MLT,Malta,2022,3.3
+MLT,Malta,2018,2.81
+MLT,Malta,2016,3.069256
+MLT,Malta,2014,3.106275
+MLT,Malta,2012,3.16
+MLT,Malta,2010,2.82
+MRT,Mauritania,2022,2.3
+MRT,Mauritania,2018,2.33
+MRT,Mauritania,2016,1.866001
+MRT,Mauritania,2014,2.228909
+MRT,Mauritania,2012,2.4
+MRT,Mauritania,2007,2.63
+MUS,Mauritius,2022,2.5
+MUS,Mauritius,2018,2.73
+MUS,Mauritius,2014,2.514919
+MUS,Mauritius,2012,2.82
+MUS,Mauritius,2010,2.72
+MUS,Mauritius,2007,2.13
+MEX,Mexico,2022,2.9
+MEX,Mexico,2018,3.05
+MEX,Mexico,2016,3.114031
+MEX,Mexico,2014,3.128319
+MEX,Mexico,2012,3.06
+MEX,Mexico,2010,3.05
+MEX,Mexico,2007,2.87
+MDA,Moldova,2022,2.5
+MDA,Moldova,2018,2.46
+MDA,Moldova,2016,2.614269
+MDA,Moldova,2014,2.653311
+MDA,Moldova,2012,2.33
+MDA,Moldova,2010,2.57
+MDA,Moldova,2007,2.31
+MNG,Mongolia,2022,2.5
+MNG,Mongolia,2018,2.37
+MNG,Mongolia,2016,2.506056
+MNG,Mongolia,2014,2.355608
+MNG,Mongolia,2012,2.25
+MNG,Mongolia,2010,2.25
+MNG,Mongolia,2007,2.08
+MNE,Montenegro,2022,2.8
+MNE,Montenegro,2018,2.75
+MNE,Montenegro,2016,2.380016
+MNE,Montenegro,2014,2.87552
+MNE,Montenegro,2012,2.45
+MNE,Montenegro,2010,2.43
+MAR,Morocco,2018,2.54
+MAR,Morocco,2016,2.665994
+MAR,Morocco,2012,3.03
+MAR,Morocco,2007,2.38
+MOZ,Mozambique,2016,2.684105
+MOZ,Mozambique,2014,2.228925
+MOZ,Mozambique,2010,2.29
+MOZ,Mozambique,2007,2.29
+MMR,Myanmar,2018,2.3
+MMR,Myanmar,2016,2.458571
+MMR,Myanmar,2014,2.249909
+MMR,Myanmar,2012,2.37
+MMR,Myanmar,2010,2.33
+MMR,Myanmar,2007,1.86
+NAM,Namibia,2022,2.9
+NAM,Namibia,2016,2.744745
+NAM,Namibia,2014,2.657883
+NAM,Namibia,2012,2.65
+NAM,Namibia,2010,2.02
+NAM,Namibia,2007,2.16
+NPL,Nepal,2018,2.51
+NPL,Nepal,2016,2.376783
+NPL,Nepal,2014,2.587906
+NPL,Nepal,2012,2.04
+NPL,Nepal,2010,2.2
+NPL,Nepal,2007,2.14
+NLD,Netherlands,2022,4.1
+NLD,Netherlands,2018,4.02
+NLD,Netherlands,2016,4.18753
+NLD,Netherlands,2014,4.047782
+NLD,Netherlands,2012,4.02
+NLD,Netherlands,2010,4.07
+NLD,Netherlands,2007,4.18
+NZL,New Zealand,2022,3.6
+NZL,New Zealand,2018,3.88
+NZL,New Zealand,2016,3.388
+NZL,New Zealand,2014,3.643892
+NZL,New Zealand,2012,3.42
+NZL,New Zealand,2010,3.65
+NZL,New Zealand,2007,3.75
+NIC,Nicaragua,2022,2.5
+NIC,Nicaragua,2016,2.531062
+NIC,Nicaragua,2014,2.653283
+NIC,Nicaragua,2010,2.54
+NIC,Nicaragua,2007,2.21
+NER,Niger,2018,2.07
+NER,Niger,2016,2.561951
+NER,Niger,2014,2.393399
+NER,Niger,2012,2.69
+NER,Niger,2010,2.54
+NER,Niger,2007,1.97
+NGA,Nigeria,2022,2.6
+NGA,Nigeria,2018,2.53
+NGA,Nigeria,2016,2.62809
+NGA,Nigeria,2014,2.808778
+NGA,Nigeria,2012,2.45
+NGA,Nigeria,2010,2.59
+NGA,Nigeria,2007,2.4
+MKD,North Macedonia,2022,3.1
+MKD,North Macedonia,2018,2.7
+MKD,North Macedonia,2016,2.510262
+MKD,North Macedonia,2014,2.499137
+MKD,North Macedonia,2012,2.56
+MKD,North Macedonia,2010,2.77
+MKD,North Macedonia,2007,2.43
+NOR,Norway,2022,3.7
+NOR,Norway,2018,3.7
+NOR,Norway,2016,3.732163
+NOR,Norway,2014,3.958243
+NOR,Norway,2012,3.68
+NOR,Norway,2010,3.93
+NOR,Norway,2007,3.81
+OMN,Oman,2022,3.3
+OMN,Oman,2018,3.2
+OMN,Oman,2016,3.234308
+OMN,Oman,2014,2.995026
+OMN,Oman,2012,2.89
+OMN,Oman,2010,2.84
+OMN,Oman,2007,2.92
+PAK,Pakistan,2018,2.42
+PAK,Pakistan,2016,2.923219
+PAK,Pakistan,2014,2.825426
+PAK,Pakistan,2012,2.83
+PAK,Pakistan,2010,2.53
+PAK,Pakistan,2007,2.62
+PAN,Panama,2022,3.1
+PAN,Panama,2018,3.28
+PAN,Panama,2016,3.337843
+PAN,Panama,2014,3.193734
+PAN,Panama,2012,2.93
+PAN,Panama,2010,3.02
+PAN,Panama,2007,2.89
+PNG,Papua New Guinea,2022,2.7
+PNG,Papua New Guinea,2018,2.17
+PNG,Papua New Guinea,2016,2.510624
+PNG,Papua New Guinea,2014,2.430098
+PNG,Papua New Guinea,2012,2.38
+PNG,Papua New Guinea,2010,2.41
+PNG,Papua New Guinea,2007,2.38
+PRY,Paraguay,2022,2.7
+PRY,Paraguay,2018,2.78
+PRY,Paraguay,2016,2.561337
+PRY,Paraguay,2014,2.779734
+PRY,Paraguay,2012,2.48
+PRY,Paraguay,2010,2.75
+PRY,Paraguay,2007,2.57
+PER,Peru,2022,3.0
+PER,Peru,2018,2.69
+PER,Peru,2016,2.893389
+PER,Peru,2014,2.840685
+PER,Peru,2012,2.94
+PER,Peru,2010,2.8
+PER,Peru,2007,2.77
+PHL,Philippines,2022,3.3
+PHL,Philippines,2018,2.9
+PHL,Philippines,2016,2.856259
+PHL,Philippines,2014,3.003844
+PHL,Philippines,2012,3.02
+PHL,Philippines,2010,3.14
+PHL,Philippines,2007,2.69
+POL,Poland,2022,3.6
+POL,Poland,2018,3.54
+POL,Poland,2016,3.425877
+POL,Poland,2014,3.493829
+POL,Poland,2012,3.43
+POL,Poland,2010,3.44
+POL,Poland,2007,3.04
+PRT,Portugal,2022,3.4
+PRT,Portugal,2018,3.64
+PRT,Portugal,2016,3.409367
+PRT,Portugal,2014,3.560284
+PRT,Portugal,2012,3.5
+PRT,Portugal,2010,3.34
+PRT,Portugal,2007,3.38
+QAT,Qatar,2022,3.5
+QAT,Qatar,2018,3.47
+QAT,Qatar,2016,3.599232
+QAT,Qatar,2014,3.516657
+QAT,Qatar,2012,3.32
+QAT,Qatar,2010,2.95
+QAT,Qatar,2007,2.98
+ROU,Romania,2022,3.2
+ROU,Romania,2018,3.12
+ROU,Romania,2016,2.99312
+ROU,Romania,2014,3.261155
+ROU,Romania,2012,3.0
+ROU,Romania,2010,2.84
+ROU,Romania,2007,2.91
+RUS,Russian Federation,2022,2.6
+RUS,Russian Federation,2018,2.76
+RUS,Russian Federation,2016,2.570864
+RUS,Russian Federation,2014,2.694479
+RUS,Russian Federation,2012,2.58
+RUS,Russian Federation,2010,2.61
+RUS,Russian Federation,2007,2.37
+RWA,Rwanda,2022,2.8
+RWA,Rwanda,2018,2.97
+RWA,Rwanda,2016,2.986229
+RWA,Rwanda,2014,2.759116
+RWA,Rwanda,2012,2.27
+RWA,Rwanda,2010,2.04
+RWA,Rwanda,2007,1.77
+STP,Sao Tome and Principe,2018,2.65
+STP,Sao Tome and Principe,2016,2.325633
+STP,Sao Tome and Principe,2014,2.733896
+STP,Sao Tome and Principe,2012,2.48
+STP,Sao Tome and Principe,2007,2.86
+SAU,Saudi Arabia,2022,3.4
+SAU,Saudi Arabia,2018,3.01
+SAU,Saudi Arabia,2016,3.156376
+SAU,Saudi Arabia,2014,3.148437
+SAU,Saudi Arabia,2012,3.18
+SAU,Saudi Arabia,2010,3.22
+SAU,Saudi Arabia,2007,3.02
+SEN,Senegal,2018,2.25
+SEN,Senegal,2016,2.327711
+SEN,Senegal,2014,2.62217
+SEN,Senegal,2012,2.49
+SEN,Senegal,2010,2.86
+SEN,Senegal,2007,2.37
+SRB,Serbia,2022,2.8
+SRB,Serbia,2018,2.84
+SRB,Serbia,2016,2.762577
+SRB,Serbia,2014,2.962556
+SRB,Serbia,2012,2.8
+SRB,Serbia,2010,2.69
+SRB,Serbia,2007,2.28
+SLE,Sierra Leone,2018,2.08
+SLE,Sierra Leone,2016,2.025402
+SLE,Sierra Leone,2012,2.08
+SLE,Sierra Leone,2010,1.97
+SLE,Sierra Leone,2007,1.95
+SGP,Singapore,2022,4.3
+SGP,Singapore,2018,4.0
+SGP,Singapore,2016,4.143632
+SGP,Singapore,2014,4.004448
+SGP,Singapore,2012,4.13
+SGP,Singapore,2010,4.09
+SGP,Singapore,2007,4.19
+SVK,Slovak Republic,2022,3.3
+SVK,Slovak Republic,2018,3.03
+SVK,Slovak Republic,2016,3.336895
+SVK,Slovak Republic,2014,3.254533
+SVK,Slovak Republic,2012,3.03
+SVK,Slovak Republic,2010,3.24
+SVK,Slovak Republic,2007,2.92
+SVN,Slovenia,2022,3.3
+SVN,Slovenia,2018,3.31
+SVN,Slovenia,2016,3.184508
+SVN,Slovenia,2014,3.383272
+SVN,Slovenia,2012,3.29
+SVN,Slovenia,2010,2.87
+SVN,Slovenia,2007,3.14
+SLB,Solomon Islands,2022,2.8
+SLB,Solomon Islands,2018,2.57
+SLB,Solomon Islands,2016,2.417321
+SLB,Solomon Islands,2014,2.587528
+SLB,Solomon Islands,2012,2.41
+SLB,Solomon Islands,2010,2.31
+SLB,Solomon Islands,2007,2.08
+SOM,"Somalia, Fed. Rep.",2022,2.0
+SOM,"Somalia, Fed. Rep.",2018,2.21
+SOM,"Somalia, Fed. Rep.",2016,1.747098
+SOM,"Somalia, Fed. Rep.",2014,1.773126
+SOM,"Somalia, Fed. Rep.",2010,1.34
+SOM,"Somalia, Fed. Rep.",2007,2.16
+ZAF,South Africa,2022,3.7
+ZAF,South Africa,2018,3.38
+ZAF,South Africa,2016,3.775321
+ZAF,South Africa,2014,3.431244
+ZAF,South Africa,2012,3.67
+ZAF,South Africa,2010,3.46
+ZAF,South Africa,2007,3.53
+ESP,Spain,2022,3.9
+ESP,Spain,2018,3.83
+ESP,Spain,2016,3.727412
+ESP,Spain,2014,3.718636
+ESP,Spain,2012,3.7
+ESP,Spain,2010,3.63
+ESP,Spain,2007,3.52
+LKA,Sri Lanka,2022,2.8
+LKA,Sri Lanka,2018,2.6
+LKA,Sri Lanka,2014,2.695239
+LKA,Sri Lanka,2012,2.75
+LKA,Sri Lanka,2010,2.29
+LKA,Sri Lanka,2007,2.4
+SDN,Sudan,2022,2.4
+SDN,Sudan,2018,2.43
+SDN,Sudan,2016,2.530408
+SDN,Sudan,2014,2.160954
+SDN,Sudan,2012,2.1
+SDN,Sudan,2010,2.21
+SDN,Sudan,2007,2.71
+SWE,Sweden,2022,4.0
+SWE,Sweden,2018,4.05
+SWE,Sweden,2016,4.204593
+SWE,Sweden,2014,3.961349
+SWE,Sweden,2012,3.85
+SWE,Sweden,2010,4.08
+SWE,Sweden,2007,4.08
+CHE,Switzerland,2022,4.1
+CHE,Switzerland,2018,3.9
+CHE,Switzerland,2016,3.987158
+CHE,Switzerland,2014,3.843969
+CHE,Switzerland,2012,3.8
+CHE,Switzerland,2010,3.97
+CHE,Switzerland,2007,4.02
+SYR,Syrian Arab Republic,2022,2.3
+SYR,Syrian Arab Republic,2018,2.3
+SYR,Syrian Arab Republic,2016,1.598322
+SYR,Syrian Arab Republic,2014,2.090922
+SYR,Syrian Arab Republic,2012,2.6
+SYR,Syrian Arab Republic,2010,2.74
+SYR,Syrian Arab Republic,2007,2.09
+TJK,Tajikistan,2022,2.5
+TJK,Tajikistan,2018,2.34
+TJK,Tajikistan,2016,2.062743
+TJK,Tajikistan,2014,2.527419
+TJK,Tajikistan,2012,2.28
+TJK,Tajikistan,2010,2.35
+TJK,Tajikistan,2007,1.93
+TZA,Tanzania,2016,2.990185
+TZA,Tanzania,2014,2.330834
+TZA,Tanzania,2012,2.65
+TZA,Tanzania,2010,2.6
+TZA,Tanzania,2007,2.08
+THA,Thailand,2022,3.5
+THA,Thailand,2018,3.41
+THA,Thailand,2016,3.2551
+THA,Thailand,2014,3.42958
+THA,Thailand,2012,3.18
+THA,Thailand,2010,3.29
+THA,Thailand,2007,3.31
+TLS,Timor-Leste,2007,1.71
+TGO,Togo,2022,2.5
+TGO,Togo,2018,2.45
+TGO,Togo,2016,2.617778
+TGO,Togo,2014,2.31846
+TGO,Togo,2012,2.58
+TGO,Togo,2010,2.6
+TGO,Togo,2007,2.25
+TTO,Trinidad and Tobago,2022,2.5
+TTO,Trinidad and Tobago,2018,2.42
+TTO,Trinidad and Tobago,2016,2.398418
+TUN,Tunisia,2018,2.57
+TUN,Tunisia,2016,2.496688
+TUN,Tunisia,2014,2.550996
+TUN,Tunisia,2012,3.17
+TUN,Tunisia,2010,2.84
+TUN,Tunisia,2007,2.76
+TUR,Turkiye,2022,3.4
+TUR,Turkiye,2018,3.15
+TUR,Turkiye,2016,3.423693
+TUR,Turkiye,2014,3.500225
+TUR,Turkiye,2012,3.51
+TUR,Turkiye,2010,3.22
+TUR,Turkiye,2007,3.15
+TKM,Turkmenistan,2018,2.41
+TKM,Turkmenistan,2016,2.211396
+TKM,Turkmenistan,2014,2.30495
+TKM,Turkmenistan,2010,2.49
+UGA,Uganda,2018,2.58
+UGA,Uganda,2016,3.043284
+UGA,Uganda,2010,2.82
+UGA,Uganda,2007,2.49
+UKR,Ukraine,2022,2.7
+UKR,Ukraine,2018,2.83
+UKR,Ukraine,2016,2.736683
+UKR,Ukraine,2014,2.976444
+UKR,Ukraine,2012,2.85
+UKR,Ukraine,2010,2.57
+UKR,Ukraine,2007,2.55
+ARE,United Arab Emirates,2022,4.0
+ARE,United Arab Emirates,2018,3.96
+ARE,United Arab Emirates,2016,3.941767
+ARE,United Arab Emirates,2014,3.539098
+ARE,United Arab Emirates,2012,3.78
+ARE,United Arab Emirates,2010,3.63
+ARE,United Arab Emirates,2007,3.73
+GBR,United Kingdom,2022,3.7
+GBR,United Kingdom,2018,3.99
+GBR,United Kingdom,2016,4.069669
+GBR,United Kingdom,2014,4.014649
+GBR,United Kingdom,2012,3.9
+GBR,United Kingdom,2010,3.95
+GBR,United Kingdom,2007,3.99
+USA,United States,2022,3.8
+USA,United States,2018,3.89
+USA,United States,2016,3.992172
+USA,United States,2014,3.917825
+USA,United States,2012,3.93
+USA,United States,2010,3.86
+USA,United States,2007,3.84
+URY,Uruguay,2022,3.0
+URY,Uruguay,2018,2.69
+URY,Uruguay,2016,2.974545
+URY,Uruguay,2014,2.678649
+URY,Uruguay,2012,2.98
+URY,Uruguay,2010,2.75
+URY,Uruguay,2007,2.51
+UZB,Uzbekistan,2022,2.6
+UZB,Uzbekistan,2018,2.58
+UZB,Uzbekistan,2016,2.404525
+UZB,Uzbekistan,2014,2.39477
+UZB,Uzbekistan,2012,2.46
+UZB,Uzbekistan,2010,2.79
+UZB,Uzbekistan,2007,2.16
+VEN,"Venezuela, RB",2022,2.3
+VEN,"Venezuela, RB",2018,2.23
+VEN,"Venezuela, RB",2016,2.39078
+VEN,"Venezuela, RB",2014,2.808111
+VEN,"Venezuela, RB",2012,2.49
+VEN,"Venezuela, RB",2010,2.68
+VEN,"Venezuela, RB",2007,2.62
+VNM,Viet Nam,2022,3.3
+VNM,Viet Nam,2018,3.27
+VNM,Viet Nam,2016,2.976629
+VNM,Viet Nam,2014,3.154763
+VNM,Viet Nam,2012,3.0
+VNM,Viet Nam,2010,2.96
+VNM,Viet Nam,2007,2.89
+YEM,"Yemen, Rep.",2022,2.2
+YEM,"Yemen, Rep.",2018,2.27
+YEM,"Yemen, Rep.",2014,2.18395
+YEM,"Yemen, Rep.",2012,2.89
+YEM,"Yemen, Rep.",2010,2.58
+YEM,"Yemen, Rep.",2007,2.29
+ZMB,Zambia,2018,2.53
+ZMB,Zambia,2016,2.429813
+ZMB,Zambia,2014,2.462674
+ZMB,Zambia,2010,2.28
+ZMB,Zambia,2007,2.37
+ZWE,Zimbabwe,2022,2.5
+ZWE,Zimbabwe,2018,2.12
+ZWE,Zimbabwe,2016,2.082408
+ZWE,Zimbabwe,2014,2.33928
+ZWE,Zimbabwe,2012,2.55
+ZWE,Zimbabwe,2007,2.29

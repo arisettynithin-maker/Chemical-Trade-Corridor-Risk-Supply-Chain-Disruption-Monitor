@@ -53,5 +53,5 @@ First run of `ingest.py` takes ~5 minutes (large Kaggle dataset download). Subse
 
 ## Data Source
 
-- **UN Comtrade trade statistics** — `kaggle datasets download -d jboysen/global-commodity-trade-statistics`
+- **UN Comtrade trade statistics** — `kaggle datasets download -d unitednations/global-commodity-trade-statistics`
 - **World Bank LPI** — fetched via `wbgapi` from the World Bank public API, no key required
