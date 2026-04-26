@@ -1,6 +1,6 @@
 # Tank Corridor Risk Monitor
 
-> 🚀 Live Demo: [Add Streamlit demo link here]
+> 🚀 Live Demo: (https://chemical-trade-corridor-risk-supply-chain-disruption-monitor-3.streamlit.app/)
 
 ## The Problem I Noticed
 
@@ -9,6 +9,15 @@ Tank container leasing companies manage assets that physically move around the w
 The frustrating thing is that most of the signals for this are visible in advance, in the trade data. Chemical export volumes have their own volatility patterns. Some corridors are structurally stable. Others spike and crash constantly. Layer in the World Bank's Logistics Performance Index and you can start to see, well before a booking gap appears, which corridors are genuinely risky and which are just having an off quarter.
 
 I built this to answer a specific question: **if you had to rank every major chemical trade corridor by how likely it is to cause a fleet positioning problem, what would that list look like?**
+
+<img width="2502" height="1220" alt="image" src="https://github.com/user-attachments/assets/0e101fcc-e168-4660-a5a2-21e24e8027b2" />
+
+<img width="2489" height="1265" alt="image" src="https://github.com/user-attachments/assets/1c4c8da1-9ca3-470b-8b58-056e9e1edbb8" />
+
+<img width="2490" height="1196" alt="image" src="https://github.com/user-attachments/assets/6e023213-1e2c-452d-bfbd-491657db709f" />
+
+<img width="2484" height="1234" alt="image" src="https://github.com/user-attachments/assets/a6347a9f-638d-4a09-b8b5-c169182426e3" />
+
 
 ## My Approach
 
