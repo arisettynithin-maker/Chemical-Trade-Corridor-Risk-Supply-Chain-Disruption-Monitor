@@ -131,7 +131,7 @@ def page_overview(rf, tf, risk_df, sel_year):
     with left:
         # global trade trend
         annual = (risk_df.merge(
-            trade_df.groupby(['country', 'year'])['trade_usd'].sum().reset_index(),
+            tf.groupby(['country', 'year'])['trade_usd'].sum().reset_index(),
             on=['country', 'year'], how='left'
         ).groupby('year')['trade_usd'].sum().reset_index())
 
