@@ -117,7 +117,7 @@ def page_overview(rf, tf, risk_df, sel_year):
     prev_avg = prev_year_df['risk_score'].mean() if not prev_year_df.empty else avg_risk
 
     top_region = rf.groupby('region')['risk_score'].mean().idxmax() if not rf.empty else "N/A"
-    top_trade = fmt_usd(tf[tf['year'] == sel_year]['trade_usd'].sum()) if 'year' in tf.columns else "N/A"
+    top_trade = fmt_usd(rf['trade_usd'].sum()) if 'trade_usd' in rf.columns else "N/A"
 
     col1.metric("Corridors Monitored", f"{n_total:,}")
     col2.metric("Avg Risk Score", f"{avg_risk:.3f}", delta=f"{avg_risk - prev_avg:+.3f} vs prior yr",
@@ -129,11 +129,8 @@ def page_overview(rf, tf, risk_df, sel_year):
     left, right = st.columns([3, 2])
 
     with left:
-        # global trade trend
-        annual = (risk_df.merge(
-            tf.groupby(['country', 'year'])['trade_usd'].sum().reset_index(),
-            on=['country', 'year'], how='left'
-        ).groupby('year')['trade_usd'].sum().reset_index())
+        # global trade trend — risk_df already has annual trade_usd per country-year
+        annual = risk_df.groupby('year')['trade_usd'].sum().reset_index()
 
         fig = px.area(annual, x='year', y='trade_usd',
                       title="Global Chemical Trade Volume (all years)",
@@ -308,10 +305,9 @@ def page_segmentation(rf, trade_df, sel_year):
     st.markdown("---")
 
     # scatter: volatility vs LPI risk
+    # rf (corridor_risk_scores) already has trade_usd — no merge needed
     scatter_df = rf.dropna(subset=['vol_norm', 'lpi_risk']).copy()
-    trade_latest = trade_df[trade_df['year'] == sel_year].groupby('country')['trade_usd'].sum().reset_index()
-    scatter_df = scatter_df.merge(trade_latest, on='country', how='left')
-    scatter_df['trade_usd'] = scatter_df['trade_usd'].fillna(1e8)
+    scatter_df['trade_usd'] = scatter_df['trade_usd'].fillna(1e8) if 'trade_usd' in scatter_df.columns else 1e8
 
     fig3 = px.scatter(scatter_df, x='vol_norm', y='lpi_risk',
                       size='trade_usd', color='region',
